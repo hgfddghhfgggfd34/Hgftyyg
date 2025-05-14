@@ -5,10 +5,10 @@
   "keywords": ["SHABAN-MD"],
   "success_url": "/",
 
-    "stack": "container",
+    "stack": "",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~PVUWDK5R#LkPfUdxn1Shmk5jZD7xw7QS9MlmdSo83UphGR1omBf0",
       "required": true,
       "value": ""
     },  
